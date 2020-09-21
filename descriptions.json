@@ -466,6 +466,6 @@
     "126048": {
     "name": "Rogue AP",
     "description": "This event indicates that an access point, classified as Suspected Rogue, is detected by the system. The AP is suspected to be rogue with the supplied confidence level."
-  },
+  }
   
 }
