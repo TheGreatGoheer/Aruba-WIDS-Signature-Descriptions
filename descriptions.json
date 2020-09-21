@@ -3,9 +3,460 @@
     "name": "802.11n 40MHz Intolerance Setting",
     "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
   },
+  "126053": {
+    "name": "802.11n 40MHz Intolerance Setting",
+    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+  },
+  "127052": {
+    "name": "802.11n 40MHz Intolerance Setting",
+    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+  },
+  "127053": {
+    "name": "802.11n 40MHz Intolerance Setting",
+    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+  },
+  "126054": {
+    "name": "Active 802.11n Greenfield Mode",
+    "description": "When 802.11 devices use the HT operating mode, they can not share the same channel as 802.11a/b/g stations. Not only can they not communicate with legacy devices, the way they use the transmission medium is different, which would cause collisions, errors and retransmissions."
+  },
+  "127054": {
+    "name": "Active 802.11n Greenfield Mode",
+    "description": "When 802.11 devices use the HT operating mode, they can not share the same channel as 802.11a/b/g stations. Not only can they not communicate with legacy devices, the way they use the transmission medium is different, which would cause collisions, errors and retransmissions."
+  },
+  "126033": {
+    "name": "Ad hoc Networks",
+    "description": "An ad hoc network is a collection of wireless clients that form a network amongst themselves without the use of an AP. As far as network administrators are concerned, ad hoc wireless networks are uncontrolled. If they do not use encryption, they may expose sensitive data to outside eavesdroppers. If a device is connected to a wired network and has bridging enabled, an ad-hoc network may also function like a rogue AP. Additionally, ad-hoc networks can expose client devices to viruses and other security vulnerabilities. For these reasons, many administrators choose to prohibit ad-hoc networks."
+  },
+  "127033": {
+    "name": "Ad hoc Networks",
+    "description": "An ad hoc network is a collection of wireless clients that form a network amongst themselves without the use of an AP. As far as network administrators are concerned, ad hoc wireless networks are uncontrolled. If they do not use encryption, they may expose sensitive data to outside eavesdroppers. If a device is connected to a wired network and has bridging enabled, an ad-hoc network may also function like a rogue AP. Additionally, ad-hoc networks can expose client devices to viruses and other security vulnerabilities. For these reasons, many administrators choose to prohibit ad-hoc networks."
+  },
+  "126068": {
+    "name": "Ad hoc Network Using Valid SSID",
+    "description": "If an unauthorized ad hoc network is using the same SSID as an authorized network, a valid client may be tricked into connecting to the wrong network. If a client connects to a malicious ad hoc network, security breaches or attacks can occur."
+  },  
+  "127068": {
+    "name": "Ad hoc Network Using Valid SSID",
+    "description": "If an unauthorized ad hoc network is using the same SSID as an authorized network, a valid client may be tricked into connecting to the wrong network. If a client connects to a malicious ad hoc network, security breaches or attacks can occur."
+  },    
+  "126034": {
+    "name": "AP Flood Attack",
+    "description": "Fake AP is a tool that was originally created to thwart wardrivers by flooding beacon frames containing hundreds of different addresses. This would appear to a wardriver as though there were hundreds of APs in the area, thus concealing the real AP. An attacker can use this tool to flood an enterprise or public hotspots with fake AP beacons to confuse legitimate users and to increase the amount of processing need on client operating systems."
+  },  
+  "127034": {
+    "name": "AP Flood Attack",
+    "description": "Fake AP is a tool that was originally created to thwart wardrivers by flooding beacon frames containing hundreds of different addresses. This would appear to a wardriver as though there were hundreds of APs in the area, thus concealing the real AP. An attacker can use this tool to flood an enterprise or public hotspots with fake AP beacons to confuse legitimate users and to increase the amount of processing need on client operating systems."
+  },    
+  "126006": {
+    "name": "AP Impersonation",
+    "description": "In AP impersonation attacks, the attacker sets up an AP that assumes the BSSID and ESSID of a valid AP. AP impersonation attacks can be done for man-in-the-middle attacks, a rogue AP attempting to bypass detection, or a honeypot attack."
+  },
+  "127006": {
+    "name": "AP Impersonation",
+    "description": "In AP impersonation attacks, the attacker sets up an AP that assumes the BSSID and ESSID of a valid AP. AP impersonation attacks can be done for man-in-the-middle attacks, a rogue AP attempting to bypass detection, or a honeypot attack."
+  },  
+  "126069": {
+    "name": "AP Spoofing",
+    "description": "An AP Spoofing attack involves an intruder sending forged frames that are made to look like they are from a legitimate AP. It is trivial for an attacker to do this, since tools are readily available to inject wireless frames with any MAC address that the user desires. Spoofing frames from a legitimate AP is the foundation of many wireless attacks."
+  },  
+  "126070": {
+    "name": "AP Spoofing",
+    "description": "An AP Spoofing attack involves an intruder sending forged frames that are made to look like they are from a legitimate AP. It is trivial for an attacker to do this, since tools are readily available to inject wireless frames with any MAC address that the user desires. Spoofing frames from a legitimate AP is the foundation of many wireless attacks."
+  },    
+  "127069": {
+    "name": "AP Spoofing",
+    "description": "An AP Spoofing attack involves an intruder sending forged frames that are made to look like they are from a legitimate AP. It is trivial for an attacker to do this, since tools are readily available to inject wireless frames with any MAC address that the user desires. Spoofing frames from a legitimate AP is the foundation of many wireless attacks."
+  },    
+  "127070": {
+    "name": "AP Spoofing",
+    "description": "An AP Spoofing attack involves an intruder sending forged frames that are made to look like they are from a legitimate AP. It is trivial for an attacker to do this, since tools are readily available to inject wireless frames with any MAC address that the user desires. Spoofing frames from a legitimate AP is the foundation of many wireless attacks."
+  },    
+  "126014": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },  
+  "126015": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },    
+  "126016": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },       
+  "126017": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },    
+  "127014": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },    
+  "127015": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },    
+  "127016": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },    
+  "127017": {
+    "name": "Bad WEP",
+    "description": "This is the detection of WEP initialization vectors that are known to be weak. A primary means of cracking WEP keys is to capture 802.11 frames over an extended period of time and searching for such weak implementations that are still used by many legacy devices."
+  },   
+  "126086": {
+    "name": "Beacon Wrong Channel",
+    "description": "In this type of attack, an intruder spoofs a beacon packet on a channel that is different from that advertised in the beacon frame of the AP."
+  },  
+  "127086": {
+    "name": "Beacon Wrong Channel",
+    "description": "In this type of attack, an intruder spoofs a beacon packet on a channel that is different from that advertised in the beacon frame of the AP."
+  },  
+  "126064": {
+    "name": "Client Flood Attack",
+    "description": "There are fake AP tools that can be used to attack wireless intrusion detection itself by generating a large number of fake clients that fill internal tables with fake information. If successful, it overwhelms the wireless intrusion system, resulting in a DoS."
+  },  
+  "127064": {
+    "name": "Client Flood Attack",
+    "description": "There are fake AP tools that can be used to attack wireless intrusion detection itself by generating a large number of fake clients that fill internal tables with fake information. If successful, it overwhelms the wireless intrusion system, resulting in a DoS."
+  },  
+  "126073": {
+    "name": "CTS Rate Anomaly",
+    "description": "The RF medium can be reserved via Virtual Carrier Sensing using an CTS/RTS transaction. The transmitter station sends a Request To Send (RTS) frame to the receiver station. The receiver station responds with a Clear To Send (CTS) frame. All other stations that receive these RTS and/or CTS frames will refrain from transmitting over the wireless medium for an amount of time specified in the duration fields of these frames. Attackers can exploit the Virtual Carrier Sensing mechanism to launch a DoS attack on the WLAN by transmitting numerous RTS and/or CTS frames. This causes other stations in the WLAN to defer transmission to the wireless medium. The attacker can essentially block the authorized stations in the WLAN with this attack."
+  },  
+  "127073": {
+    "name": "CTS Rate Anomaly",
+    "description": "The RF medium can be reserved via Virtual Carrier Sensing using an CTS/RTS transaction. The transmitter station sends a Request To Send (RTS) frame to the receiver station. The receiver station responds with a Clear To Send (CTS) frame. All other stations that receive these RTS and/or CTS frames will refrain from transmitting over the wireless medium for an amount of time specified in the duration fields of these frames. Attackers can exploit the Virtual Carrier Sensing mechanism to launch a DoS attack on the WLAN by transmitting numerous RTS and/or CTS frames. This causes other stations in the WLAN to defer transmission to the wireless medium. The attacker can essentially block the authorized stations in the WLAN with this attack."
+  },    
+  "126029": {
+    "name": "Devices with an Invalid MAC OUI",
+    "description": "The first three bytes of a MAC address, known as the MAC organizationally unique identifier (OUI), is assigned by the IEEE to known manufacturers. Often clients using a spoofed MAC address do not use a valid OUI and instead use a randomly generated MAC address."
+  },
+  "126030": {
+    "name": "Devices with an Invalid MAC OUI",
+    "description": "The first three bytes of a MAC address, known as the MAC organizationally unique identifier (OUI), is assigned by the IEEE to known manufacturers. Often clients using a spoofed MAC address do not use a valid OUI and instead use a randomly generated MAC address."
+  },
+  "127029": {
+    "name": "Devices with an Invalid MAC OUI",
+    "description": "The first three bytes of a MAC address, known as the MAC organizationally unique identifier (OUI), is assigned by the IEEE to known manufacturers. Often clients using a spoofed MAC address do not use a valid OUI and instead use a randomly generated MAC address."
+  },
+  "127030": {
+    "name": "Devices with an Invalid MAC OUI",
+    "description": "The first three bytes of a MAC address, known as the MAC organizationally unique identifier (OUI), is assigned by the IEEE to known manufacturers. Often clients using a spoofed MAC address do not use a valid OUI and instead use a randomly generated MAC address."
+  },
+  "126079": {
+    "name": "Invalid Address Combination",
+    "description": "In this attack, an intruder can cause an AP to transmit deauthentication and disassociation frames to all of its clients. Triggers that can cause this condition include the use of broadcast or multicast MAC address in the source address field."
+  },
+  "127079": {
+    "name": "Invalid Address Combination",
+    "description": "In this attack, an intruder can cause an AP to transmit deauthentication and disassociation frames to all of its clients. Triggers that can cause this condition include the use of broadcast or multicast MAC address in the source address field."
+  },
+  "126082": {
+    "name": "Overflow EAPOL Key",
+    "description": "Some wireless drivers used in access points do not correctly validate the EAPOL key fields. A malicious EAPOL-Key packet with an invalid advertised length can trigger a DoS or possible code execution. This can only be achieved after a successful 802.11 association exchange."
+  },
+  "127082": {
+    "name": "Overflow EAPOL Key",
+    "description": "Some wireless drivers used in access points do not correctly validate the EAPOL key fields. A malicious EAPOL-Key packet with an invalid advertised length can trigger a DoS or possible code execution. This can only be achieved after a successful 802.11 association exchange."
+  },
+  "126084": {
+    "name": "Overflow IE",
+    "description": "Some wireless drivers used in access points do not correctly parse the vendor-specific IE tags. A malicious association request sent to the AP containing an IE with an inappropriate length (too long) can cause a DoS and potentially lead to code execution. The association request must be sent after a successful 802.11 authentication exchange."
+  },
+  "127084": {
+    "name": "Overflow IE",
+    "description": "Some wireless drivers used in access points do not correctly parse the vendor-specific IE tags. A malicious association request sent to the AP containing an IE with an inappropriate length (too long) can cause a DoS and potentially lead to code execution. The association request must be sent after a successful 802.11 authentication exchange."
+  },
+  "126080": {
+    "name": "Malformed Frame-Assoc Request",
+    "description": "Some wireless drivers used in access points do not correctly parse the SSID information element tag contained in association request frames. A malicious association request with a null SSID (that is, zero length SSID) can trigger a DoS or potential code execution condition on the targeted device."
+  },
+  "127080": {
+    "name": "Malformed Frame-Assoc Request",
+    "description": "Some wireless drivers used in access points do not correctly parse the SSID information element tag contained in association request frames. A malicious association request with a null SSID (that is, zero length SSID) can trigger a DoS or potential code execution condition on the targeted device."
+  },
+  "126083": {
+    "name": "Malformed Frame-Auth",
+    "description": "Malformed 802.11 authentication frames that do not conform to the specification can expose vulnerabilities in some drivers that have not implemented proper error checking. This feature checks for unexpected values in a Authentication frame."
+  },
+  "127083": {
+    "name": "Malformed Frame-Auth",
+    "description": "Malformed 802.11 authentication frames that do not conform to the specification can expose vulnerabilities in some drivers that have not implemented proper error checking. This feature checks for unexpected values in a Authentication frame."
+  },
+  "126081": {
+    "name": "Malformed Frame-HT IE",
+    "description": "The IEEE 802.11n HT (High Throughput) IE is used to convey information about the 802.11n network. A 802.11 management frame containing a malformed HT IE can crash some client implementations; potentially representing an exploitable condition when transmitted by a malicious attacker."
+  },
+  "127081": {
+    "name": "Malformed Frame-HT IE",
+    "description": "The IEEE 802.11n HT (High Throughput) IE is used to convey information about the 802.11n network. A 802.11 management frame containing a malformed HT IE can crash some client implementations; potentially representing an exploitable condition when transmitted by a malicious attacker."
+  },
+  "126085": {
+    "name": "Malformed Frame-Large Duration",
+    "description": "The virtual carrier-sense attack is implemented by modifying the 802.11 MAC layer implementation to allow random duration values to be sent periodically. This attack can be carried out on the ACK, data, RTS, and CTS frame types by using large duration values. This attack can prevent channel access to legitimate users."
+  },
+  "127085": {
+    "name": "Malformed Frame-Large Duration",
+    "description": "The virtual carrier-sense attack is implemented by modifying the 802.11 MAC layer implementation to allow random duration values to be sent periodically. This attack can be carried out on the ACK, data, RTS, and CTS frame types by using large duration values. This attack can prevent channel access to legitimate users."
+  },
+  "126011": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "126028": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "126010": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "126008": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "126009": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "127011": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "127028": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "127010": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "127008": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "127009": {
+    "name": "Misconfigured AP",
+    "description": "A list of parameters can be configured that defines the characteristics of a valid AP. This feature is primarily used when non-Aruba APs are used in the network since the Aruba controller cannot configure the third-party APs. These parameters include WEP, WPA, OUI of valid MAC addresses, valid channels, and valid SSIDs."
+  },
+  "126074": {
+    "name": "RTS Rate Anomaly",
+    "description": "The RF medium can be reserved via Virtual Carrier Sensing using an CTS/RTS transaction. The transmitter station sends a Request To Send (RTS) frame to the receiver station. The receiver station responds with a Clear To Send (CTS) frame. All other stations that receive these RTS and/or CTS frames will refrain from transmitting over the wireless medium for an amount of time specified in the duration fields of these frames. Attackers can exploit the Virtual Carrier Sensing mechanism to launch a DoS attack on the WLAN by transmitting numerous RTS and/or CTS frames. This causes other stations in the WLAN to defer transmission to the wireless medium. The attacker can essentially block the authorized stations in the WLAN with this attack."
+  },
+  "127074": {
+    "name": "RTS Rate Anomaly",
+    "description": "The RF medium can be reserved via Virtual Carrier Sensing using an CTS/RTS transaction. The transmitter station sends a Request To Send (RTS) frame to the receiver station. The receiver station responds with a Clear To Send (CTS) frame. All other stations that receive these RTS and/or CTS frames will refrain from transmitting over the wireless medium for an amount of time specified in the duration fields of these frames. Attackers can exploit the Virtual Carrier Sensing mechanism to launch a DoS attack on the WLAN by transmitting numerous RTS and/or CTS frames. This causes other stations in the WLAN to defer transmission to the wireless medium. The attacker can essentially block the authorized stations in the WLAN with this attack."
+  },
+  "126039": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "126040": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "126041": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "126042": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "127039": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "127040": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "127041": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "127042": {
+    "name": "Windows Bridge",
+    "description": "A Windows Bridge occurs when a client that is associated to an AP is also connected to the wired network, and has enabled bridging between these two interfaces."
+  },
+  "126036": {
+    "name": "Wireless Bridge",
+    "description": "Wireless bridges are normally used to connect multiple buildings together. However, an attacker could place (or have an authorized person place) a wireless bridge inside the network that would extend the corporate network somewhere outside the building. Wireless bridges are somewhat different from rogue APs in that they do not use beacons and have no concept of association. Most networks do not use bridges – in these networks, the presence of a bridge is a signal that a security problem exists."
+  },
+  "127036": {
+    "name": "Wireless Bridge",
+    "description": "Wireless bridges are normally used to connect multiple buildings together. However, an attacker could place (or have an authorized person place) a wireless bridge inside the network that would extend the corporate network somewhere outside the building. Wireless bridges are somewhat different from rogue APs in that they do not use beacons and have no concept of association. Most networks do not use bridges – in these networks, the presence of a bridge is a signal that a security problem exists."
+  },
+  "126047": {
+    "name": "Broadcast Deauthentication",
+    "description": "A deauthentication broadcast attempts to disconnect all stations in range. Rather than sending a spoofed deauth to a specific MAC address, this attack sends the frame to a broadcast address."
+  },
+  "127047": {
+    "name": "Broadcast Deauthentication",
+    "description": "A deauthentication broadcast attempts to disconnect all stations in range. Rather than sending a spoofed deauth to a specific MAC address, this attack sends the frame to a broadcast address."
+  },
+  "126066": {
+    "name": "Broadcast Disassociation",
+    "description": "By sending disassociation frames to the broadcast address (FF:FF:FF:FF:FF:FF), an attacker can disconnect all stations on a network for a widespread DoS."
+  },
+  "127066": {
+    "name": "Broadcast Disassociation",
+    "description": "By sending disassociation frames to the broadcast address (FF:FF:FF:FF:FF:FF), an attacker can disconnect all stations on a network for a widespread DoS."
+  },
+  "126043": {
+    "name": "Netstumbler",
+    "description": "NetStumbler is a popular wardriving application used to locate 802.11 networks. When used with certain NICs, NetStumbler generates a characteristic frame that can be detected. Version 3.3.0 of NetStumbler changed the characteristic frame slightly."
+  },
+  "127043": {
+    "name": "Netstumbler",
+    "description": "NetStumbler is a popular wardriving application used to locate 802.11 networks. When used with certain NICs, NetStumbler generates a characteristic frame that can be detected. Version 3.3.0 of NetStumbler changed the characteristic frame slightly."
+  },
+  "126007": {
+    "name": "Valid SSID Misuse",
+    "description": "If an unauthorized AP (neighbor or interfering) is using the same SSID as an authorized network, a valid client may be tricked into connecting to the wrong network. If a client connects to a malicious network, security breaches or attacks can occur."
+  },
+  "127007": {
+    "name": "Valid SSID Misuse",
+    "description": "If an unauthorized AP (neighbor or interfering) is using the same SSID as an authorized network, a valid client may be tricked into connecting to the wrong network. If a client connects to a malicious network, security breaches or attacks can occur."
+  },
+  "126067": {
+    "name": "Wellenreiter",
+    "description": "Wellenreiter is a passive wireless network discovery tool that is used to compile a list of APs along with their MAC address, SSID, channel, security setting in the vicinity. It passively sniffs wireless traffic and with certain version (versions 1.4, 1.5, and 1.6) sends active probes that target known default SSIDs."
+  },
+  "126087": {
+    "name": "Block ACK DoS",
+    "description": "The Block ACK mechanism that was introduced in 802.11e, and enhanced in 802.11nD3.0, has a built-in DoS vulnerability. The Bock ACK mechanism allows for a sender to use the ADDBA request frame to specify the sequence number window that the receiver should expect. The receiver will only accept frames in this window. An attacker can spoof the ADDBA request frame causing the receiver to reset its sequence number window and thereby drop frames that do not fall in that range."
+  },
+  "127087": {
+    "name": "Block ACK DoS",
+    "description": "The Block ACK mechanism that was introduced in 802.11e, and enhanced in 802.11nD3.0, has a built-in DoS vulnerability. The Bock ACK mechanism allows for a sender to use the ADDBA request frame to specify the sequence number window that the receiver should expect. The receiver will only accept frames in this window. An attacker can spoof the ADDBA request frame causing the receiver to reset its sequence number window and thereby drop frames that do not fall in that range."
+  },
+  "126078": {
+    "name": "ChopChop Attack",
+    "description": "ChopChop is a plaintext recovery attack against WEP encrypted networks. It works by forcing the plaintext, one byte at a time, by truncating a captured frame and then trying all 256 possible values for the last byte with a corrected CRC. The correct guess causes the AP to retransmit the frame. When that happens, the frame is truncated again."
+  },
+  "127078": {
+    "name": "ChopChop Attack",
+    "description": "ChopChop is a plaintext recovery attack against WEP encrypted networks. It works by forcing the plaintext, one byte at a time, by truncating a captured frame and then trying all 256 possible values for the last byte with a corrected CRC. The correct guess causes the AP to retransmit the frame. When that happens, the frame is truncated again."
+  },
+  "126035": {
+    "name": "Disconnect Station Attack",
+    "description": "A disconnect attack can be launched in many ways; the end result is that the client is effectively and repeatedly disconnected from the AP."
+  },
+  "127035": {
+    "name": "Disconnect Station Attack",
+    "description": "A disconnect attack can be launched in many ways; the end result is that the client is effectively and repeatedly disconnected from the AP."
+  },
+  "126032": {
+    "name": "EAP Rate Anomaly",
+    "description": "To authenticate wireless clients, WLANs may use 802.1x, which is based on a framework called Extensible Authentication Protocol (EAP). After an EAP packet exchange and the user is successfully authenticated, the EAP-Success is sent from the AP to the client. If the user fails to authenticate, an EAP-Failure is sent. In this attack, EAP-Failure or EAP-Success frames are spoofed from the access point to the client to disrupting the authentication state on the client. This confuses the client’s state causing it to drop the AP connection. By continuously sending EAP Success or Failure messages, an attacker can effectively prevent the client from authenticating with the APs in the WLAN."
+  },
+  "127032": {
+    "name": "EAP Rate Anomaly",
+    "description": "To authenticate wireless clients, WLANs may use 802.1x, which is based on a framework called Extensible Authentication Protocol (EAP). After an EAP packet exchange and the user is successfully authenticated, the EAP-Success is sent from the AP to the client. If the user fails to authenticate, an EAP-Failure is sent. In this attack, EAP-Failure or EAP-Success frames are spoofed from the access point to the client to disrupting the authentication state on the client. This confuses the client’s state causing it to drop the AP connection. By continuously sending EAP Success or Failure messages, an attacker can effectively prevent the client from authenticating with the APs in the WLAN."
+  },
+  "126072": {
+    "name": "FATA-Jack Attack Structure",
+    "description": "FATA-Jack is an 802.11 client DoS tool that tries to disconnect targeted stations using spoofed authentication frames that contain an invalid authentication algorithm number."
+  },
+  "127072": {
+    "name": "FATA-Jack Attack Structure",
+    "description": "FATA-Jack is an 802.11 client DoS tool that tries to disconnect targeted stations using spoofed authentication frames that contain an invalid authentication algorithm number."
+  },
+  "126088": {
+    "name": "Hotspotter Attack",
+    "description": "The Hotspotter attack is an evil-twin attack which attempts to lure a client to a malicious AP. Many enterprise employees use their laptop in Wi-Fi area hotspots at airports, cafes, malls etc. They have SSIDs of their hotspot service providers configured on their laptops. The SSIDs used by different hotspot service providers are well known. This enables the attackers to set up APs with hotspot SSIDs in close proximity of the enterprise premises. When the enterprise laptop Client probes for hotspot SSID, these malicious APs respond and invite the client to connect to them. When the client connects to a malicious AP, a number of security attacks can be launched on the client. A popular hacking tool used to launch these attacks is Airsnarf."
+  },
+  "127088": {
+    "name": "Hotspotter Attack",
+    "description": "The Hotspotter attack is an evil-twin attack which attempts to lure a client to a malicious AP. Many enterprise employees use their laptop in Wi-Fi area hotspots at airports, cafes, malls etc. They have SSIDs of their hotspot service providers configured on their laptops. The SSIDs used by different hotspot service providers are well known. This enables the attackers to set up APs with hotspot SSIDs in close proximity of the enterprise premises. When the enterprise laptop Client probes for hotspot SSID, these malicious APs respond and invite the client to connect to them. When the client connects to a malicious AP, a number of security attacks can be launched on the client. A popular hacking tool used to launch these attacks is Airsnarf."
+  },
+  "126109": {
+    "name": "Meiners Power Save DoS Attack",
+    "description": "To save on power, wireless clients will "sleep" periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
+  },
+  "127109": {
+    "name": "Meiners Power Save DoS Attack",
+    "description": "To save on power, wireless clients will "sleep" periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
+  },
+  "126071": {
+    "name": "Omerta Attack",
+    "description": "Omerta is an 802.11 DoS tool that sends disassociation frames to all stations on a channel in response to data frames. The Omerta attack is characterized by disassociation frames with a reason code of 0x01. This reason code is “unspecified” and is not be used under normal circumstances."
+  },
+  "127071": {
+    "name": "Omerta Attack",
+    "description": "Omerta is an 802.11 DoS tool that sends disassociation frames to all stations on a channel in response to data frames. The Omerta attack is characterized by disassociation frames with a reason code of 0x01. This reason code is “unspecified” and is not be used under normal circumstances."
+  },
+  "126061": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "126062": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "126063": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "127061": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "127062": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "127063": {
+    "name": "Rate Anomalies",
+    "description": "Many DoS attacks flood an AP or multiple APs with 802.11 management frames. These can include authenticate/associate frames which are designed to fill up the association table of an AP. Other management frame floods, such as probe request floods, can consume excess processing power on the AP."
+  },
+  "126077": {
+    "name": "TKIP Replay Attack",
+    "description": "TKIP is vulnerable to replay (via WMM/QoS) and plaintext discovery (via ChopChop). This affects all WPA-TKIP usage. By replaying a captured TKIP data frame on other QoS queues, an attacker can manipulate the RC4 data and checksum to derive the plaintext at a rate of one byte per minute. By targeting an ARP frame and guessing the known payload, an attacker can extract the complete plaintext and MIC checksum. With the extracted MIC checksum, an attacker can reverse the MIC AP to Station key and sign future messages as MIC compliant, opening the door for more advanced attacks."
+  },
+  "127077": {
+    "name": "TKIP Replay Attack",
+    "description": "TKIP is vulnerable to replay (via WMM/QoS) and plaintext discovery (via ChopChop). This affects all WPA-TKIP usage. By replaying a captured TKIP data frame on other QoS queues, an attacker can manipulate the RC4 data and checksum to derive the plaintext at a rate of one byte per minute. By targeting an ARP frame and guessing the known payload, an attacker can extract the complete plaintext and MIC checksum. With the extracted MIC checksum, an attacker can reverse the MIC AP to Station key and sign future messages as MIC compliant, opening the door for more advanced attacks."
+  },
+  "126065": {
+    "name": "Unencrypted Valid Clients",
+    "description": "An authorized (valid) client that is passing traffic in unencrypted mode is a security risk. An intruder can sniff unencrypted traffic (also known as packet capture) with software tools known as sniffers. These packets are then reassembled to produce the original message."
+  },
+  "127065": {
+    "name": "Unencrypted Valid Clients",
+    "description": "An authorized (valid) client that is passing traffic in unencrypted mode is a security risk. An intruder can sniff unencrypted traffic (also known as packet capture) with software tools known as sniffers. These packets are then reassembled to produce the original message."
+  },
   "126075": {
-    "name": "test name",
-    "description": "test desc"
+    "name": "Valid Client Misassociation",
+    "description": "This feature does not detect attacks, but rather it monitors authorized (valid) wireless clients and their association within the network. Valid client misassociation is potentially dangerous to network security. The four types of misassociation monitored are: Authorized Client associated to Rogue, Authorized Client associated to External AP (not valid, not rogue), Authorized Client associated to Honeypot AP (not valid, but using valid/protected SSID), and Authorized Client in ad hoc connection mode."
+  },
+  "127075": {
+    "name": "Valid Client Misassociation",
+    "description": "This feature does not detect attacks, but rather it monitors authorized (valid) wireless clients and their association within the network. Valid client misassociation is potentially dangerous to network security. The four types of misassociation monitored are: Authorized Client associated to Rogue, Authorized Client associated to External AP (not valid, not rogue), Authorized Client associated to Honeypot AP (not valid, but using valid/protected SSID), and Authorized Client in ad hoc connection mode."
+  },
+  "126046": {
+    "name": "AirJack",
+    "description": "AirJack is a suite of device drivers for 802.11(a/b/g) raw frame injection and reception. It was intended to be used as a development tool for all 802.11 applications that need to access the raw protocol, however one of the tools included allowed users to force off all users on an AP."
+  },
+  "127046": {
+    "name": "AirJack",
+    "description": "AirJack is a suite of device drivers for 802.11(a/b/g) raw frame injection and reception. It was intended to be used as a development tool for all 802.11 applications that need to access the raw protocol, however one of the tools included allowed users to force off all users on an AP."
+  },
+  "126044": {
+    "name": "ASLEAP",
+    "description": "ASLEAP is a tool created for Linux systems which is used to attack Cisco LEAP authentication protocol."
+  },
+  "127044": {
+    "name": "ASLEAP",
+    "description": "ASLEAP is a tool created for Linux systems which is used to attack Cisco LEAP authentication protocol."
+  },
+  "126045": {
+    "name": "Null Probe Response",
+    "description": "A null probe response attack has the potential to crash or lock up the firmware of many 802.11 NICs. In this attack, a client probe-request frame will be answered by a probe response containing a null SSID. A number of popular NIC cards will lock up upon receiving such a probe response."
+  },
+  "127045": {
+    "name": "Null Probe Response",
+    "description": "A null probe response attack has the potential to crash or lock up the firmware of many 802.11 NICs. In this attack, a client probe-request frame will be answered by a probe response containing a null SSID. A number of popular NIC cards will lock up upon receiving such a probe response."
   }
-
 }
