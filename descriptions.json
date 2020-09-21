@@ -458,5 +458,14 @@
   "127045": {
     "name": "Null Probe Response",
     "description": "A null probe response attack has the potential to crash or lock up the firmware of many 802.11 NICs. In this attack, a client probe-request frame will be answered by a probe response containing a null SSID. A number of popular NIC cards will lock up upon receiving such a probe response."
-  }
+  },
+  "126005": {
+    "name": "Interfering AP",
+    "description": "This event indicates that an access point has been classified as Interfering by the system. The access point is declared Interfering because it is not authorized, nor has it been classified as a Rogue."
+  },
+    "126048": {
+    "name": "Rogue AP",
+    "description": "This event indicates that an access point, classified as Suspected Rogue, is detected by the system. The AP is suspected to be rogue with the supplied confidence level."
+  },
+  
 }
