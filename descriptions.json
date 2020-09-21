@@ -1,19 +1,19 @@
 {
   "126052": {
     "name": "802.11n 40MHz Intolerance Setting",
-    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+    "description": "When a client sets the HT capability 'intolerant bit' to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
   },
   "126053": {
     "name": "802.11n 40MHz Intolerance Setting",
-    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+    "description": "When a client sets the HT capability 'intolerant bit' to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
   },
   "127052": {
     "name": "802.11n 40MHz Intolerance Setting",
-    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+    "description": "When a client sets the HT capability 'intolerant bit' to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
   },
   "127053": {
     "name": "802.11n 40MHz Intolerance Setting",
-    "description": "When a client sets the HT capability “intolerant bit” to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
+    "description": "When a client sets the HT capability 'intolerant bit' to indicate that it is unable to participate in a 40MHz BSS, the AP must use lower data rates with all of its clients. Network administrators often want to know if there are devices that are advertising 40MHz intolerance, as this can impact the performance of the network."
   },
   "126054": {
     "name": "Active 802.11n Greenfield Mode",
@@ -373,11 +373,11 @@
   },
   "126109": {
     "name": "Meiners Power Save DoS Attack",
-    "description": "To save on power, wireless clients will "sleep" periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
+    "description": "To save on power, wireless clients will 'sleep' periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
   },
   "127109": {
     "name": "Meiners Power Save DoS Attack",
-    "description": "To save on power, wireless clients will "sleep" periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
+    "description": "To save on power, wireless clients will 'sleep' periodically, during which they cannot transmit or receive. A client indicates its intention to sleep by sending frames to the AP with the Power Management bit ON. The AP then begins buffering traffic bound for that client until it indicates that it is awake. An intruder could exploit this mechanism by sending (spoofed) frames to the AP on behalf of the client to trick the AP into believing the client is asleep. This will cause the AP to buffer most, if not all, frames destined for the client."
   },
   "126071": {
     "name": "Omerta Attack",
